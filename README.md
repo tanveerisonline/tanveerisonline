@@ -5,6 +5,7 @@
   <li>:dancers: I’m looking to collaborate with other developers</li>
   <li>:goal_net: 2022 Goals: Learn more about web development & enhance my coding skills</li>
   <li>:zap: Fun fact: I love to work and play games</li>
+  <li>💼 Available to Hire</li>
 </ul>
 <h2>Connect with me:</h2>
 <p>
