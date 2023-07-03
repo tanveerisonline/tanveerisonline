@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Tanveer ahmad <a href="https://tanveerisonline.github.io/portfolio_website/">Full-stack web developer</a> :wave:</h1>
+<h1>Hi there, I'm Tanveer Ahmad <a href="https://tanveerisonline.github.io/portfolio_website/">Full-stack Developer</a> :wave:</h1>
 <h2>I'm a Developer, and Self-Learner!!</h2>
 <ul>
   <li>:seedling: I’m currently learning Front-end development 😄</li>
