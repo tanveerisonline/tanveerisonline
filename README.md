@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Tanveer Ahmad <a href="https://tanveerisonline.github.io/portfolio_website/">Full-stack Developer</a> :wave:</h1>
 <h2>I'm a Developer and Self-Learner!!</h2>
 <ul>
-  <li>:seedling: I have completed my full-stack development from Microverse😄</li>
+  <li>💻 I have completed my full-stack development bootcamp from Microverse😄</li>
   <li>:dancers: I’m looking to collaborate with other developers</li>
   <li>:goal_net: 2023 Goals: Learn more about web development & enhance my coding skills</li>
   <li>:zap: Fun fact: I love to work and play games</li>
