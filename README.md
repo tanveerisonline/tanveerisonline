@@ -10,7 +10,7 @@
 <h2>Connect with me:</h2>
 <p>
 <a href="https://github.com/tanveerisonline/"> <img src= "https://camo.githubusercontent.com/61bdd2e32559622456274c196b0e3d8e1902895c74766d031c5a7df91b1d86a2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076362f69636f6e732f6769746875622e737667" style="width:30px; height:30px;">
-<a href="https://www.linkedin.com/in/tanveer-ahmad-899462211/">&nbsp&nbsp&nbsp <img src= "https://camo.githubusercontent.com/9daae3dd5ec04b691eca3b0c17b90026308e0432f93f7b981d2710cdaa82557a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076362f69636f6e732f6c696e6b6564696e2e737667" style="width:30px; height:30px;">
+<a href="https://www.linkedin.com/in/tanveerisonline/">&nbsp&nbsp&nbsp <img src= "https://camo.githubusercontent.com/9daae3dd5ec04b691eca3b0c17b90026308e0432f93f7b981d2710cdaa82557a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076362f69636f6e732f6c696e6b6564696e2e737667" style="width:30px; height:30px;">
 <a href="https://twitter.com/Tanveer98589023"> &nbsp&nbsp&nbsp&nbsp<img src= "https://camo.githubusercontent.com/78177033dd771aae36f0c5924e15c067e603910458a6e944afb19a2c8e63a470/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076362f69636f6e732f747769747465722e737667" style="width:30px; height:30px;">
 </p>
 <h2>Languages & Tools:</h2>
