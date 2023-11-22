@@ -3,7 +3,7 @@
 <ul>
   <li>💻 I have completed my full-stack development bootcamp from Microverse😄</li>
   <li>:dancers: I’m looking to collaborate with other developers</li>
-  <li>:goal_net: 2023 Goals: Learn more about web development & enhance my coding skills</li>
+  <li>:goal_net: 2024 Goals: Learn more about web development & enhance my coding skills</li>
   <li>:zap: Fun fact: I love to work and play games</li>
   <li>💼 Available to Hire</li>
 </ul>
